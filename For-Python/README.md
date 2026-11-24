@@ -26,7 +26,7 @@
 برای اجرای برنامه، دستور زیر را وارد کنید:
 
 ```bash
-python rectangle.py
+python for-python.py
 ```
 
 ## هدف پروژه
